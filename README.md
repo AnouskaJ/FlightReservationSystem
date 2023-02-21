@@ -1,1 +1,4 @@
 # FlightReservationSystem
+* A database in Python using SQLite and providing it with the tables and functionalities of Flight Reservation. 
+* The database FLIGHT has six tables which are used to handle the various sections of flight reservation. The tables created in the database store the flight details, the airport details, the login details for a user, the booking details of a flight booked, the passenger details of the traveller(s), and also, the seating types and details available for a flight.
+* In Python, the functionality of viewing the different tables in the database as well as inserting user input to the tables is added. There is also an option to check the complete details of a specific booking by entering the Booking ID for the flight. The project is friendly for both new and existing users.
